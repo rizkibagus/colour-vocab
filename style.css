@@ -2,7 +2,10 @@ body {
   background-color: #f5f6fa;
   font-family: Arial, sans-serif;
   text-align: center;
-  padding: 20px;
+}
+
+.content-colour {
+  display: flex;
 }
 
 .content {
